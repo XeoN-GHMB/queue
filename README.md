@@ -1,6 +1,6 @@
 # Task Queue
 
-Task Queue is an advanced queue system for Beanie (MongoDB), designed to efficiently manage and process tasks. It features task priorities, states, dependencies, and automatic expiration. Different task queues can be processed together using the Worker class. Multiple workers can be run in separate processes using the Runner class.
+...
 
 ## Installation
 
