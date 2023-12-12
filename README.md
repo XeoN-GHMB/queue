@@ -5,7 +5,7 @@
 ## Installation
 
 ```shell
-pip install beanie[queue]
+...
 ```
 
 ## Example
